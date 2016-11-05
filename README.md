@@ -2,7 +2,7 @@
 
 ## Our Goal
 
-The Houston Data Visualization Meetup is dedicated to providing a harassment-free experience for everyone. We do not tolerate harassment of participants in any form.
+The Girls Coding Club Meetup is dedicated to providing a harassment-free experience for everyone. We do not tolerate harassment of participants in any form.
 
 ## Applicability and Scope
 
@@ -45,11 +45,6 @@ If you have questions or concerns about these issues please feel free to message
 ## Reporting
 
 If you are being harassed by a member of our community, notice that someone else is being harassed, or have any other concerns, please contact the organizers via Meetup message, e-mail, or in person. If the person who is harassing you is on the organizer team, they will not be involved in handling or resolving the incident. 
-
-Organizer e-mail addresses
-* yulan@houstondatavis.org
-* amanda@houstondatavis.org
-* neeraj@houstondatavis.org
 
 The organizer team will respond to any complaint as promptly as we can. If you do not get a timely response (for example, if no organizers are currently present) then please put your personal safety and well-being first, and consider leaving the event and contacting one of the organizers listed above by email.
 
